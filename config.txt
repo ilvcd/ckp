@@ -9,7 +9,7 @@
     "path_clip_vision": "/content/Fooocus/models/clip_vision",
     "path_fooocus_expansion": "/content/Fooocus/models/prompt_expansion/fooocus_expansion",
     "path_outputs": "/content/Fooocus/outputs",
-    "default_model": "Realistic_Vision_V5.1_fp16-no-ema.safetensors",
+    "default_model": "segmind-vega.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -18,8 +18,8 @@
             1.0
         ],
         [
-            "lcm.safetensors",
-            1.5
+            "None",
+            1.0
         ],
         [
             "None",
