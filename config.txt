@@ -18,8 +18,8 @@
             1.0
         ],
         [
-            "lcm.safetensors",
-            1.5
+            "None",
+            1.0
         ],
         [
             "None",
