@@ -40,7 +40,9 @@
     "default_scheduler": "sgm_uniform",
     "default_styles": [
         "Fooocus Cinematic",
-        "Fooocus Sharp"
+        "Fooocus Sharp",
+        "Fooocus V2",
+        "Fooocus Enhance"
     ],
     "default_prompt_negative": "",
     "default_prompt": "",
