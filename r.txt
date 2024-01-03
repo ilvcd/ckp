@@ -10,10 +10,12 @@ tqdm
 psutil
 pytorch_lightning
 omegaconf
-gradio
+gradio==3.41.2
 pygit2
 opencv-contrib-python
 httpx
 onnxruntime
 timm
 xformers
+trampoline
+
